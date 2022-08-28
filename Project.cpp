@@ -1,5 +1,4 @@
-//Widad Abdullah(SE-085)
-//Muhammad Anas Khan(SE-079)
+//Widad Abdullah
 
 #include <iostream>
 #include <iomanip>
